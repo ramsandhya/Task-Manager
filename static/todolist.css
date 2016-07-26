@@ -1,0 +1,13 @@
+.strike {
+  text-decoration: line-through;
+}
+body {
+  background-color: lightblue;
+}
+html{
+  text-align: center;
+}
+button {
+  border-radius: 5px;
+  box-shadow: 10px 10px 5px #888888;
+}
